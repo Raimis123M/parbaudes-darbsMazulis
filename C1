@@ -1,0 +1,6 @@
+saraksts = [ 2,3,4,6,7,7,8]
+print ("saraksts", saraksts)
+print ("skaits", len(saraksts))
+print ("summa ",sum(saraksts))
+print("lielaais",max(saraksts))
+print("mazakais",min (saraksts))

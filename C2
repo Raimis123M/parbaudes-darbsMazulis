@@ -1,0 +1,6 @@
+nauda = 20
+cena = 3
+griezieni = nauda // cena
+nauda = nauda % cena
+print(" tev ir griezieni", griezieni)
+print(" tev ir nauda", nauda)
